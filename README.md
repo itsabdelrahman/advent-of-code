@@ -7,8 +7,9 @@
 ## Index
 
 - [2023](src/main/kotlin/twenty/three)
-  - [Dec 1st](src/main/kotlin/twenty/three/01.kt)
-  - [Dec 2nd](src/main/kotlin/twenty/three/02.kt)
+    - [Dec 1st](src/main/kotlin/twenty/three/01.kt)
+    - [Dec 2nd](src/main/kotlin/twenty/three/02.kt)
+    - [Dec 3rd](src/main/kotlin/twenty/three/03.kt)
 
 ## License
 
